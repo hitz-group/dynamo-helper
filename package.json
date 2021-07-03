@@ -40,9 +40,9 @@
     "lodash": "4.17.20"
   },
   "devDependencies": {
-    "@babel/core": "7.12.1",
-    "@babel/preset-env": "7.12.1",
-    "@babel/preset-typescript": "7.12.1",
+    "@babel/core": "7.14.6",
+    "@babel/preset-env": "7.14.7",
+    "@babel/preset-typescript": "7.14.5",
     "@types/crypto-js": "^4.0.1",
     "@types/jest": "26.0.15",
     "@typescript-eslint/eslint-plugin": "4.6.1",
