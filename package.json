@@ -35,7 +35,7 @@
     "lint:report": "eslint . --output-file ./eslint_report.json --format json  --ext .ts,.js,.tsx | true"
   },
   "dependencies": {
-    "aws-sdk": "2.784.0",
+    "aws-sdk": "2.948.0",
     "crypto-js": "^4.0.0",
     "lodash": "4.17.20"
   },
